@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/canjs/can-upgrade",
   "devDependencies": {
-    "jshint": "^2.8.0"
+    "jshint": "^2.9.5"
   }
 }
